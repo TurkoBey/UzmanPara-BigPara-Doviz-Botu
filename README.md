@@ -9,8 +9,13 @@
 UzmanPara  | [Link](https://uzmanpara.milliyet.com.tr/doviz-kurlari/)
 BigPara  | [Link](https://bigpara.hurriyet.com.tr/doviz/)
 
-   :pencil2: Detaylar
+:pencil2: Detaylar
  
       HtmlAgilityPack kullanımı öğrenirken, ufak bir bot hazırladım..  
       
       Detaylar Güncellenecek...
+
+
+ :camera:
+
+[![](https://raw.githubusercontent.com/TurkoBey/UzmanPara-BigPara-Doviz-Botu/main/img.PNG)](https://raw.githubusercontent.com/TurkoBey/UzmanPara-BigPara-Doviz-Botu/main/img.PNG)
