@@ -1,0 +1,11 @@
+C:\Users\ATA\source\repos\Uzmanpara-Doviz-Botu\Uzmanpara-Doviz-Botu\bin\Debug\Uzmanpara-Doviz-Botu.exe.config
+C:\Users\ATA\source\repos\Uzmanpara-Doviz-Botu\Uzmanpara-Doviz-Botu\bin\Debug\Uzmanpara-Doviz-Botu.exe
+C:\Users\ATA\source\repos\Uzmanpara-Doviz-Botu\Uzmanpara-Doviz-Botu\bin\Debug\Uzmanpara-Doviz-Botu.pdb
+C:\Users\ATA\source\repos\Uzmanpara-Doviz-Botu\Uzmanpara-Doviz-Botu\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ATA\source\repos\Uzmanpara-Doviz-Botu\Uzmanpara-Doviz-Botu\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ATA\source\repos\Uzmanpara-Doviz-Botu\Uzmanpara-Doviz-Botu\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ATA\source\repos\Uzmanpara-Doviz-Botu\Uzmanpara-Doviz-Botu\obj\Debug\Uzmanpara-Doviz-Botu.csprojAssemblyReference.cache
+C:\Users\ATA\source\repos\Uzmanpara-Doviz-Botu\Uzmanpara-Doviz-Botu\obj\Debug\Uzmanpara-Doviz-Botu.csproj.CoreCompileInputs.cache
+C:\Users\ATA\source\repos\Uzmanpara-Doviz-Botu\Uzmanpara-Doviz-Botu\obj\Debug\Uzmanpara-Doviz-Botu.csproj.CopyComplete
+C:\Users\ATA\source\repos\Uzmanpara-Doviz-Botu\Uzmanpara-Doviz-Botu\obj\Debug\Uzmanpara-Doviz-Botu.exe
+C:\Users\ATA\source\repos\Uzmanpara-Doviz-Botu\Uzmanpara-Doviz-Botu\obj\Debug\Uzmanpara-Doviz-Botu.pdb
